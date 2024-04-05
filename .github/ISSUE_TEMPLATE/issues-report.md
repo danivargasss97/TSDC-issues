@@ -3,7 +3,7 @@ name: Issues report
 about: Escriba un titulo y un resumen corto del issue que esta reportando
 title: ''
 labels: ''
-assignees: danivargasss97
+assignees: ''
 
 ---
 
@@ -24,16 +24,11 @@ Escriba una secuencia de pasos que se requieren para poder reproducir el defecto
 Escriba un conjunto de imagenes o videos que complementan la información dada en el reporte.
 [Url ejemplo](http://www.google.com)
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**CONTEXTO:**
+Escriba en esta sección se debe detallar el contexto en el que fue ejecutado el escenario de prueba.
+1. Versión de la app.
+2.Sistema operativo. Windows XX, Mac XX, Ubuntu XX
+3. Browser ( nombre y versión ): [all | Chrome XX | Firefox XX | IE XX | Safari XX | Mobile Chrome XX |  Android X.X Web Browser | iOS XX Safari | iOS XX UIWebView | iOS XX  WKWebView ]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+*INFORMACIÓN ADICIONAL:** 
+Escriba datos adicionales a los que se tenga acceso respecto al defecto. Por ejemplo, trazas de error, defecto similares ya reportados, posible solución, posible implementación de la solución, links a recursos externos que brinden más información: stackoverflow, gitter, etc.
